@@ -4,8 +4,8 @@ Micro Project - A simple student enrollment form using JsonPowerDB
 ### Description
 This project is a simple **Student Enrollment Form** that used JsonPowerDB as the database. The form initially takes user input for the *Roll-No* which is the primary key while all other input keys and buttons are disabled. Then the system checks if the entered Roll-No is present in the database or not.
 1. If the *Roll-No* is present in the database, the cursor moves to the next field and, *Update* and *Reset* buttons are enabled and the *Roll-No* field is disabled. The user can now change data in other fields and save them. This option is to update existing student data.
-2. If the *Roll-No* is not present in the database, the cursor moves to the next field and, *Save* and *Reset* buttons are enabled. The user will now need to enter values in all other fields and save it. This option is to create new user entry.
-*__Reset__ will send the form to the initial stage.*
+2. If the *Roll-No* is not present in the database, the cursor moves to the next field and, *Save* and *Reset* buttons are enabled. The user will now need to enter values in all other fields and save it. This option is to create new user entry. \
+*__Reset__ will send the form to the initial stage.* \
 The form was created using *HTML* and *JavaScript*.
 
 ### Benefits of using JsonPowerDB
